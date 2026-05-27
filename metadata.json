@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Atas de Reunião",
+  "description": "Transforma anotações brutas e confusas de reunião em atas profissionais estruturadas para clientes, planilhas e e-mails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
